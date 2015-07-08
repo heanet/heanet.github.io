@@ -54,9 +54,9 @@
                         <p>Schools Broadband Support:<br>Tel: 1800 33 44 66<br>Email: broadbandservicedesk@pdst.ie</p>
                     </div><!-- /.col-sm-4 -->
                     <div class="col-sm-4">
-                        <h3>Swdev</h3>
-                        <p>For any queries related to this project please contact:</p>
-                        <p>swdev@heanet.ie</p>
+                        <h3>Using Github Pages</h3>
+                        <p><a href="https://github.com/heanet/heanet.github.io">github.com/heanet/heanet.github.io</a></p>
+                        <p><a href="https://heanet.github.io">heanet.github.io</a></p>
                     </div><!-- /.col-sm-4 -->
                 </div><!-- /.row -->
             </div><!-- /.col-lg-10 -->
