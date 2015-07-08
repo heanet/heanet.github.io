@@ -1,0 +1,10 @@
+{
+  "name": "heanet.github.io",
+  "version": "1.0.0",
+  "dependencies": {
+    "angular": "~1.4",
+    "bootstrap": "~3",
+    "angular-bootstrap": "~0",
+    "angular-route": "~1"
+  }
+}
