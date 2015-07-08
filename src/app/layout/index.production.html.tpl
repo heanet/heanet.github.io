@@ -49,14 +49,14 @@
                     </div><!-- /.col-sm-4 -->
                     <div class="col-sm-4">
                         <h3>Contact</h3>
-                        <p>General Inquiries:<br>Tel: +353 (0) 1 660 9040<br>Email: info@heanet.ie</p>
-                        <p>HEAnet Support:<br>Tel: +353 (0) 1 660 9040<br>Email: noc@heanet.ie</p>
-                        <p>Schools Broadband Support:<br>Tel: 1800 33 44 66<br>Email: broadbandservicedesk@pdst.ie</p>
+                        <p>General Inquiries:<br>Tel: +353 (0) 1 660 9040<br>Email: <a href="mailto:info@heanet.ie">info@heanet.ie</a></p>
+                        <p>HEAnet Support:<br>Tel: +353 (0) 1 660 9040<br>Email: <a href="mailto:noc@heanet.ie">noc@heanet.ie</a></p>
+                        <p>Schools Broadband Support:<br>Tel: 1800 33 44 66<br>Email: <a href="mailto:broadbandservicedesk@pdst.ie">broadbandservicedesk@pdst.ie</a></p>
                     </div><!-- /.col-sm-4 -->
                     <div class="col-sm-4">
-                        <h3>Using Github Pages</h3>
-                        <p><a href="https://github.com/heanet/heanet.github.io">github.com/heanet/heanet.github.io</a></p>
-                        <p><a href="https://heanet.github.io">heanet.github.io</a></p>
+                        <h3>Github Pages</h3>
+                        <p><a href="https://github.com/heanet/moodle_media">Moodle media.heanet.ie integration</a></p>
+                        <p><a href="https://github.com/heanet/heanet.github.io">Heanet Github Page</a></p>
                     </div><!-- /.col-sm-4 -->
                 </div><!-- /.row -->
             </div><!-- /.col-lg-10 -->

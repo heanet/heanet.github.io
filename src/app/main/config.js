@@ -9,8 +9,8 @@
 
   function configure($routeProvider) {
     $routeProvider.when('/', {
-      templateUrl: '/main/main.html',
-      controller: 'main.mainCtrl',
+      templateUrl: '/main/index.html',
+      controller: 'main.indexCtrl',
       controllerAs: 'main'
     });
   }

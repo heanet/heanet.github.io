@@ -4,7 +4,8 @@
   angular
     .module('heanet', [
       'ngRoute',
-      'heanet.main'
+      'heanet.main',
+      'heanet.media'
     ])
     .run(run);
 
