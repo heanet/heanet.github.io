@@ -44,7 +44,7 @@ module.exports = function (grunt) {
     'src/app/**/*.js'
   ];
 
-  var build_folder = './build/';
+  var build_folder = './public/';
 
   // Task Configuration
   var tasks = {
@@ -185,7 +185,7 @@ module.exports = function (grunt) {
           }
         },
         'files': {
-          './build/index.html': ['src/app/layout/index.production.html.tpl']
+          './public/index.html': ['src/app/layout/index.production.html.tpl']
         }
       },
       'dev': {
@@ -198,7 +198,7 @@ module.exports = function (grunt) {
           }
         },
         'files': {
-          './build/index.html': ['src/app/layout/index.dev.html.tpl']
+          './public/index.html': ['src/app/layout/index.dev.html.tpl']
         }
       }
     }

@@ -5,7 +5,7 @@
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Software Development Team</title>
-    <link href="<%- css_app %>" type="text/css" rel="stylesheet">
+    <link href="/public/<%- css_app %>" type="text/css" rel="stylesheet">
     <link href='https://fonts.googleapis.com/css?family=Open+Sans:400italic,600italic,600,400' rel='stylesheet' type='text/css'>
 </head>
 <body>
@@ -22,7 +22,7 @@
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                     </button>
-                    <a class="navbar-brand" href="http://www.heanet.ie"><img src="/img/heanet-logo.png" title="HEAnet"></a>
+                    <a class="navbar-brand" href="http://www.heanet.ie"><img src="/public/img/heanet-logo.png" title="HEAnet"></a>
                 </div><!-- /.navbar-header -->
                 <div id="navbar" class="navbar-collapse collapse">
                     <ul class="nav navbar-nav navbar-right">
@@ -68,11 +68,11 @@
 <footer>
     <div class="container text-center">
         <a class="footer-logo" href="http://www.heanet.ie" target="_blank">
-            <img src="/img/heanet_globe_bw.png" title="HEAnet">
+            <img src="/public/img/heanet_globe_bw.png" title="HEAnet">
         </a>
     </div>
     <!-- /.container -->
 </footer>
-<script src="<%- js_app %>"></script>
+<script src="/public/<%- js_app %>"></script>
 </body>
 </html>

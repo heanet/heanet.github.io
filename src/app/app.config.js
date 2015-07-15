@@ -10,7 +10,7 @@
   function configure($routeProvider) {
     $routeProvider.otherwise(
       {
-        redirectTo: '/not-found'
+        redirectTo: '/'
       }
     );
   }
