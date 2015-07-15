@@ -9,7 +9,7 @@
 
   function configure($routeProvider) {
     $routeProvider.when('/media', {
-      templateUrl: '/media/index.html',
+      templateUrl: '/public/media/index.html',
       controller: 'media.indexCtrl',
       controllerAs: 'index'
     });
