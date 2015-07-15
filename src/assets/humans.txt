@@ -1,7 +1,7 @@
 # http://humanstxt.org/
 
 /* TEAM */
-Your title: Heanet Swdev.
+Your title: HEAnet Swdev.
 Site: http://wwww.heanet.ie
 Location: Dublin, Heanet
 
@@ -9,3 +9,4 @@ Location: Dublin, Heanet
 /* SITE */
 Last update: 2015-07-08
 Software: angular, bootstrap
+Email: noc@heanet.ie
