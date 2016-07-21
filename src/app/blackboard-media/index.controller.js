@@ -2,8 +2,8 @@
   'use strict';
 
   angular
-    .module('heanet.moodle-media')
-    .controller('moodle-media.indexCtrl', indexCtrl);
+    .module('heanet.blackboard-media')
+    .controller('media.blackboard-media', indexCtrl);
 
   indexCtrl.$inject = ['$anchorScroll', '$location'];
 

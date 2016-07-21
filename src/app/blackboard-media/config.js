@@ -2,15 +2,15 @@
   'use strict';
 
   angular
-    .module('heanet.moodle-media')
+    .module('heanet.blackboard-media')
     .config(configure);
 
   configure.$inject = ['$routeProvider'];
 
   function configure($routeProvider) {
-    $routeProvider.when('/moodle-media', {
-      templateUrl: '/public/moodle-media/index.html',
-      controller: 'moodle-media.indexCtrl',
+    $routeProvider.when('/blackboard-media', {
+      templateUrl: '/public/blackboard-media/index.html',
+      controller: 'blackboard-media.indexCtrl',
       controllerAs: 'index'
     });
   }

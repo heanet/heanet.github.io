@@ -2,6 +2,6 @@
   'use strict';
 
   angular
-    .module('heanet.moodle-media', []);
+    .module('heanet.blackboard-media', []);
 
 }());

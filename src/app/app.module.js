@@ -5,7 +5,8 @@
     .module('heanet', [
       'ngRoute',
       'heanet.main',
-      'heanet.media'
+      'heanet.moodle-media',
+      'heanet.blackboard-media'
     ])
     .run(run);
 
