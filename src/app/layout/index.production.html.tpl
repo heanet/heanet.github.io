@@ -56,6 +56,7 @@
                     <div class="col-sm-4">
                         <h3>Github Pages</h3>
                         <p><a href="https://github.com/heanet/moodle_media">Moodle media.heanet.ie integration</a></p>
+                        <p><a href="https://github.com/heanet/blackboard_media">Blackboard media.heanet.ie integration</a></p>
                         <p><a href="https://github.com/heanet/heanet.github.io">Heanet Github Page</a></p>
                     </div><!-- /.col-sm-4 -->
                 </div><!-- /.row -->
