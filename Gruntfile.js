@@ -150,7 +150,7 @@ module.exports = function (grunt) {
     uglify: {
       options: {
         mangle: false,
-        compress: {}
+        compress: false,
       },
       production: {
         files: [{
